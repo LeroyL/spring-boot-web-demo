@@ -1,0 +1,5 @@
+rootProject.name = 'root'
+include 'wap'
+include 'admin'
+include 'core'
+
